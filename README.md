@@ -6,3 +6,10 @@ This project is a music note finder and tuner. This uses Clyde A. Lettsome's Mus
 Original code by Clyde A. Lettsome can be found here:
 https://projecthub.arduino.cc/lbf20012001/musical-note-detector-7e01ee#section5
 
+Other sources:
+How I learned to hook up the sound sensor:
+https://youtu.be/xgTJJkqhZEQ
+
+How I learned to hook up the LCD Screen and code it:
+https://youtu.be/JTL3vzvTZac
+
